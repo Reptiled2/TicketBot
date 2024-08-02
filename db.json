@@ -1,0 +1,98 @@
+{
+    "channel": "1130599149734211595",
+    "message": "1259394314883039336",
+    "keys": {
+        "CrackerLicense-80baae816e22bafc20ae08677587e7ff": {
+            "owner": "776851561815998484",
+            "status": "active",
+            "key": "CrackerLicense-80baae816e22bafc20ae08677587e7ff",
+            "admins": [
+                "773960165195776050"
+            ],
+            "usages": [
+                "1256958610337038439",
+                "1256962198278766602",
+                "1256963146418229349"
+            ],
+            "licenseDuration": "perma",
+            "assignedAt": 1719752372
+        }
+    },
+    "logs": {
+        "activeTickets": {},
+        "expiredTickets": {
+            "1256958610337038439": {
+                "owner": "776851561815998484",
+                "channel": "1256958610337038439",
+                "license": "CrackerLicense-80baae816e22bafc20ae08677587e7ff",
+                "type": "support",
+                "creationDate": 1719752685,
+                "messages": [
+                    "TestBot1: <@776851561815998484> ",
+                    "TestBot1: <@773960165195776050> has been added to ticket as a sub-client! ",
+                    "TestBot1: Successfully added <@773960165195776050> as a sub-client! ",
+                    "Reptiled: <@773960165195776050> ^ ",
+                    "TestBot1: <@773960165195776050> has been added to ticket as a sub-client! ",
+                    "Reptiled:  HAS ATTACHMENT",
+                    "TestBot1: You can't add yourself as a sub-client! ",
+                    "TestBot1:  "
+                ],
+                "transcript": "1256961282603487253"
+            },
+            "1256962198278766602": {
+                "owner": "776851561815998484",
+                "channel": "1256962198278766602",
+                "license": "CrackerLicense-80baae816e22bafc20ae08677587e7ff",
+                "type": "support",
+                "creationDate": 1719753541,
+                "messages": [
+                    "TestBot1: <@776851561815998484> "
+                ],
+                "transcript": "1256962213022011404"
+            },
+            "1256957476889165924": {
+                "owner": "776851561815998484",
+                "channel": "1256957476889165924",
+                "type": "onboarding",
+                "creationDate": 1719752415,
+                "messages": [
+                    "TestBot1: <@776851561815998484> "
+                ]
+            },
+            "1256963146418229349": {
+                "owner": "776851561815998484",
+                "channel": "1256963146418229349",
+                "license": "CrackerLicense-80baae816e22bafc20ae08677587e7ff",
+                "type": "support",
+                "creationDate": 1719753767,
+                "messages": [
+                    "TestBot1: <@776851561815998484> ",
+                    "TestBot1: <@773960165195776050> has been added to ticket as a sub-client! ",
+                    "TestBot1: <@773960165195776050> has been removed from ticket! ",
+                    "Reptiled: <@773960165195776050> ^ ",
+                    "Reptiled: added u back to ticket ",
+                    "Reptiled: ✅ "
+                ]
+            },
+            "1259392102924812370": {
+                "owner": "776851561815998484",
+                "channel": "1259392102924812370",
+                "type": "onboarding",
+                "creationDate": 1720332873,
+                "messages": [
+                    "TestBot1: <@776851561815998484> "
+                ]
+            },
+            "1259394376711536650": {
+                "owner": "776851561815998484",
+                "channel": "1259394376711536650",
+                "type": "onboarding",
+                "creationDate": 1720333415,
+                "messages": [
+                    "TestBot1: <@776851561815998484> "
+                ],
+                "transcript": "1259394397636919397"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "botToken": "",
+    "clientId" : "",
+    "guildId": "",
+    "status": "Listening for tickets",
+
+    "message": "By opening a ticket, you confirm that you have read\nand understood our policy\n\n• Our timezone is CET, response times may vary.\n• Only your network owner/admin is allowed to request for onboarding.\n• We reserve the right to request additional information if we feel it is necessary.",
+    "footerUrl": "",
+    "footerText": "TicketBot",
+
+    "buyerRole": "1256358543372587088",
+    "subclientRole": "1256945434547720315",
+    "verifiedRole": "1256974593843925073",
+    "categoryId": "1256137521126182953",
+    "logChannel": "1246448339483103325",
+    "supportRole": "825440615524204605",
+
+    "generalChannel": "825440707643703306",
+    "randomMessages": ["hi", "hola"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "a bot made by Reptiled",
+  "main": "index.js",
+  "scripts": {
+    "run": "node dist/index.js",
+    "build": "rimraf ./dist && npm run lint && tsc",
+    "lint": "biome lint ./src",
+    "start": "npm run build && npm run run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "rimraf": "^5.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsup": "^8.1.0",
+    "tsx": "^4.15.7",
+    "typescript": "^5.5.2"
+  }
+}
